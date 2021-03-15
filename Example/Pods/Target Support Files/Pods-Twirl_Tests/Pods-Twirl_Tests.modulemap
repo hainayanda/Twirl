@@ -1,0 +1,6 @@
+framework module Pods_Twirl_Tests {
+  umbrella header "Pods-Twirl_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

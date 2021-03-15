@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (9.0.0)
+  - Quick (3.1.2)
+  - Twirl (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 9.0.0)
+  - Quick (~> 3.1.2)
+  - Twirl (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  Twirl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
+  Quick: 60f0ea3b8e0cfc0df3259a5c06a238ad8b3c46e0
+  Twirl: 71d758b742ebaa8c9646efb6b4baf7325e20f34f
+
+PODFILE CHECKSUM: f04dbbbd18d930918944904d3de33803ac65f0c3
+
+COCOAPODS: 1.10.1

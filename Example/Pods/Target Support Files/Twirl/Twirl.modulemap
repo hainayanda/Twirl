@@ -1,0 +1,6 @@
+framework module Twirl {
+  umbrella header "Twirl-umbrella.h"
+
+  export *
+  module * { export * }
+}
